@@ -14,4 +14,4 @@ NOTE -> "books.js" file has been made inside "models" folder. Here "models" fold
 
 I have used MongoDB database to store data and "Insomnia" API development platform to add books,update a book,ans delete a book using suitable API testing methods.
 
-MongoDB database can be accessed by using -> Username = laltkishor12, Password = Lalit@123
+MongoDB database can be accessed by using -> Username = lalitkishor12, Password = Lalit@123
